@@ -10,13 +10,13 @@ sources:
         columns:
         - name: date_date
           description: date of purchase
-        -name: orders_id
+        - name: orders_id
           description: id of per order
-         -name: products_id
+        - name: products_id
           description: id of per product 
-         -name: revenue
+        - name: revenue
           description: revenue of per order
-         -name: quantity
+        - name: quantity
           description: quantity of per order
 
       - name: product
